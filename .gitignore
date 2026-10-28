@@ -1,0 +1,6 @@
+# Archivos de herramientas de IA (Laravel Boost): se quedan solo en local
+api/.claude/
+api/.mcp.json
+api/AGENTS.md
+api/CLAUDE.md
+api/boost.json
